@@ -1,0 +1,20 @@
+{
+  "name": "bodev",
+  "version": "1.0.0",
+  "description": "A web app that offers multiple dev services, mobile dev, web dev, embedded software dev and more ... Created by obeaj",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEAJousama/bodev.git"
+  },
+  "keywords": [],
+  "author": "Obeaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BEAJousama/bodev/issues"
+  },
+  "homepage": "https://github.com/BEAJousama/bodev#readme"
+}
